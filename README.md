@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanupadhyay28&label=Profile%20views&color=0e75b6&style=flat" alt="amanupadhyay28" /> </p>
 
-- 🌱 I’m currently learning **NextJs And Advance Mobile Development**
+- 🌱 I’m currently learning **VueJs ,Java,Spring Boot And Advance Mobile Development**
 
 - 💬 Ask me about **React,React Native**
 
